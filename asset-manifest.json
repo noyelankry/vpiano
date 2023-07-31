@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/piano-app/static/css/main.1290310a.css",
-    "main.js": "/piano-app/static/js/main.ab8804f5.js",
-    "index.html": "/piano-app/index.html",
-    "main.1290310a.css.map": "/piano-app/static/css/main.1290310a.css.map",
-    "main.ab8804f5.js.map": "/piano-app/static/js/main.ab8804f5.js.map"
+    "main.css": "/vpiano/static/css/main.1290310a.css",
+    "main.js": "/vpiano/static/js/main.ab8804f5.js",
+    "index.html": "/vpiano/index.html",
+    "main.1290310a.css.map": "/vpiano/static/css/main.1290310a.css.map",
+    "main.ab8804f5.js.map": "/vpiano/static/js/main.ab8804f5.js.map"
   },
   "entrypoints": [
     "static/css/main.1290310a.css",
